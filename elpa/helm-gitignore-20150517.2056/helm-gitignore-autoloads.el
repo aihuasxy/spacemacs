@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "helm-gitignore" "helm-gitignore.el" (22517
-;;;;;;  1045 0 0))
+;;;;;;  4333 0 0))
 ;;; Generated autoloads from helm-gitignore.el
 
 (autoload 'helm-gitignore "helm-gitignore" "\
