@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "gitconfig-mode" "gitconfig-mode.el" (22517
-;;;;;;  1042 0 0))
+;;;;;;  4321 0 0))
 ;;; Generated autoloads from gitconfig-mode.el
 
 (autoload 'gitconfig-mode "gitconfig-mode" "\

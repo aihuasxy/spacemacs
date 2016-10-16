@@ -4,7 +4,7 @@
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
 ;;;### (autoloads nil "org-projectile" "org-projectile.el" (22517
-;;;;;;  6 0 0))
+;;;;;;  4461 0 0))
 ;;; Generated autoloads from org-projectile.el
 
 (autoload 'org-projectile:toggle-subheading "org-projectile" "\
