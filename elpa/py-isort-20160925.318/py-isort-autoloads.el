@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "py-isort" "py-isort.el" (22517 64634 0 0))
+;;;### (autoloads nil "py-isort" "py-isort.el" (22518 11257 0 0))
 ;;; Generated autoloads from py-isort.el
 
 (autoload 'py-isort-region "py-isort" "\

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "live-py-mode" "live-py-mode.el" (22517 64634
+;;;### (autoloads nil "live-py-mode" "live-py-mode.el" (22518 11252
 ;;;;;;  0 0))
 ;;; Generated autoloads from live-py-mode.el
 
@@ -16,7 +16,7 @@ With arg, turn mode on if and only if arg is positive.
 
 ;;;***
 
-;;;### (autoloads nil nil ("live-py-mode-pkg.el") (22517 64634 66161
+;;;### (autoloads nil nil ("live-py-mode-pkg.el") (22518 11252 360000
 ;;;;;;  0))
 
 ;;;***

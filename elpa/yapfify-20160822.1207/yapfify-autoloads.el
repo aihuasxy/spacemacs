@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "yapfify" "yapfify.el" (22517 64635 0 0))
+;;;### (autoloads nil "yapfify" "yapfify.el" (22518 11269 0 0))
 ;;; Generated autoloads from yapfify.el
 
 (autoload 'yapfify-buffer "yapfify" "\

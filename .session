@@ -1,0 +1,3 @@
+;;; Automatically generated on Wed Oct  5 17:18:31 2016
+;;; Invoked by 10033342@A10135683 using 24.4.1
+(setq-default occur-collect-regexp-history '("\\1"))

@@ -3,7 +3,7 @@
 ;;; Code:
 (add-to-list 'load-path (or (file-name-directory #$) (car load-path)))
 
-;;;### (autoloads nil "pyenv-mode" "pyenv-mode.el" (22517 64634 0
+;;;### (autoloads nil "pyenv-mode" "pyenv-mode.el" (22518 11261 0
 ;;;;;;  0))
 ;;; Generated autoloads from pyenv-mode.el
 
